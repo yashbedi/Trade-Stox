@@ -1,5 +1,5 @@
 # Trade-Stox
-A Small Trading App using Sockets.io using RKSV stock Api's
+A Small Trading App using WebSockets with RKSV stock Api's
 
 # Installation guideLines:
 - Clone the repo or Download the zip (Unzip it).
