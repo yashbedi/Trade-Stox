@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (4.8.0)
+  - Charts (3.2.1):
+    - Charts/Core (= 3.2.1)
+  - Charts/Core (3.2.1)
+  - Socket.IO-Client-Swift (13.3.1):
+    - Starscream (~> 3.0.2)
+  - Starscream (3.0.6)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - Charts
+  - Socket.IO-Client-Swift (~> 13.3.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Charts
+    - Socket.IO-Client-Swift
+    - Starscream
+
+SPEC CHECKSUMS:
+  Alamofire: 3ec537f71edc9804815215393ae2b1a8ea33a844
+  Charts: f122fb70b19847fa5817d018b77d6c5a2296ab25
+  Socket.IO-Client-Swift: 79f8f85fa44881838175a20f9bd2c32bef2c9d37
+  Starscream: ef3ece99d765eeccb67de105bfa143f929026cf5
+
+PODFILE CHECKSUM: f79faccd42f1cb2766d3acdac711906093d9f2b3
+
+COCOAPODS: 1.5.3
