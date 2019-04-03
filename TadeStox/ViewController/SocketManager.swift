@@ -35,7 +35,11 @@ extension ViewController
                 }
                 
                 let Object = dataAsNSStr.components(separatedBy: ",")
-                self?.dynamicLabel.text = "$\(Object[2]).00"
+                let index = 2
+                let isIndexValid = Object.indices.contains(index)
+                if isIndexValid {
+                    self?.dynamicLabel.text = "$\(Object[index]).00"
+                }
                 return
             })
             
