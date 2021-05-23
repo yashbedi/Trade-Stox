@@ -19,4 +19,4 @@ https://www.youtube.com/watch?v=1bSOrVRFuCE
 
 
 
-email: yashbeerbedi@gmail.com LinkedIn: https://www.linkedin.com/in/yash-bedi-99209b67
+email: ********@gmail.com LinkedIn: https://www.linkedin.com/in/yash-bedi-99209b67
